@@ -1,4 +1,4 @@
-# Ping-Pong-Game
+# 🏓 Ping-Pong-Game 🏓
 
 This repository contains the source code for a simple yet engaging ping-pong game developed using HTML, CSS, and JavaScript. The game is designed to be lightweight and easy to understand, making it a perfect project for beginners and those looking to explore web-based game development.
 
