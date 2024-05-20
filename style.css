@@ -1,0 +1,22 @@
+body{
+    /* background-color: #ffffff; */
+    background: url(bg-ping/bg6.jpg);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+}
+
+
+
+#pong{
+    border: 2px solid black;
+    border-radius: 2rem;
+    position: absolute;
+    margin: auto;
+    top: 2rem;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
